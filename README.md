@@ -1,6 +1,8 @@
 # student_info_app
-
-A new Flutter project.
+** Firebase integration
+** handle text of Textfield widget
+** Create - Read - Update - Delete a student
+** StreamBuilder for list an array of student data
 
 ## Getting Started
 
